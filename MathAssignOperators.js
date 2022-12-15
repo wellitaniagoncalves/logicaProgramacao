@@ -10,6 +10,10 @@ let quarterMe = 1152;
  */
 
 // Use as atribuições matemáticas no espaço abaixo:
+levelUp += 5;
+powerLevel -= 100;
+multiplyMe *=11;
+quarterMe /= 4;
 
 
 

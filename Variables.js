@@ -6,8 +6,10 @@
  * 4 - Na linha seguinte, use console.log() para imprimir o valor salvo em numDePedacos.
  */
 
-
-
+var comidaFavorita = 'pizza';
+var numDePedacos = 8
+console.log(comidaFavorita);
+console.log(numDePedacos);
 
 /**
  * LET
@@ -15,7 +17,9 @@
  * 2 - Na linha depois de declarar changeMe, defina o valor de changeMe para ser o booleano false.
  * 3 - Para verificar se changeMe foi reatribuído, registre o valor salvo changeMe no console.
  */
-
+let channelMe = true
+changeMe = false
+console.log(changeMe)
 
 /**
  * CONST
@@ -24,3 +28,6 @@
  * 3 - Se deu certo, vejamos o que acontece se tentarmos reatribuir o valor de uma variável constante.
  *     Cole a seguinte linha na parte de baixo do seu código: entrada = 'Tapioca'
  */
+const entrada = 'Cuscuz'
+console.log(entrada)
+entrada = 'Tapioca'
