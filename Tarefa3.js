@@ -15,7 +15,7 @@ console.log(perguntaCompleta)
 console.log(userQuestion);
 
 //5
-let randomNumber = ;
+let randomNumber = 
 console.log(Math.floor(Math.random() * 8));
 
 //6
